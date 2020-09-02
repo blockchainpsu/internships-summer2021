@@ -1,6 +1,6 @@
 ![Blockchain@PSU logo](https://avatars3.githubusercontent.com/u/60204923?s=200&v=4)
 
-# Blockchain@PSU List of Summer 2020 Internships
+# Blockchain@PSU List of Summer 2021 Internships
 
 Here's our curated list of internships in different FinTech-related fields, sorted by internship role. Happy applying!
 
